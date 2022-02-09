@@ -1,2 +1,2 @@
-# Website
-Website using HTML and CSS
+# mywebsite
+This is a homepage
